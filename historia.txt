@@ -1,7 +1,3 @@
 prueba de git
 
-agregamos nueva lineas para ver el comportamiento de git
-
-vamos muy bien
-
-historia de su vida y obra maestra
+pruebas de reemplazo y modifcacion por algo nuevo
