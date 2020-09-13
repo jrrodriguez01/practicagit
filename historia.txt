@@ -2,4 +2,6 @@ prueba de git
 
 agregamos nueva lineas para ver el comportamiento de git
 
-vamos uy bien
+vamos muy bien
+
+historia de su vida
