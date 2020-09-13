@@ -1,1 +1,5 @@
 prueba de git
+
+agregamos nueva lineas para ver el comportamiento de git
+
+vamos uy bien
